@@ -1,0 +1,9 @@
+{
+  "all_of": [
+    {
+      "metric": "dist_to_tourist_landmarks_m",
+      "op": "<=",
+      "value": 1000
+    }
+  ]
+}

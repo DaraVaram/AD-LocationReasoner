@@ -1,0 +1,9 @@
+{
+  "all_of": [
+    {
+      "metric": "dist_to_bus_stations_m",
+      "op": "<=",
+      "value": 600
+    }
+  ]
+}
