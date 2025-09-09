@@ -8,7 +8,7 @@ This guide shows how to go from a single POI CSV (`abudhabi_osm_all_pois.csv`) t
 4. **Winning tiles** CSVs
 5. Interactive **maps**
 
-No external data (spend, population, etc.) is used—**only your OSM POIs**.
+No external data (spend, population, etc.) is used—**only OSM POIs**.
 
 ---
 
